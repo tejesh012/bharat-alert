@@ -63,7 +63,7 @@
 
 - **Frontend:** HTML, CSS, JS (React optional)
 - **Map:** Leaflet.js or Google Maps (API key needed)
-- **Database:** JSON-based mock database
+- **Database:** JSON-based mock database 
 
 ```json
 {
